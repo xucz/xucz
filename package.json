@@ -19,6 +19,7 @@
   "dependencies": {
     "fis3-parser-translate-jst": "^0.0.2",
     "install": "^0.13.0",
+    "lodash": "^4.17.20",
     "npm": "^7.21.0"
   }
 }
